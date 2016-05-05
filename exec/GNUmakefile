@@ -12,7 +12,7 @@ USE_EB=TRUE
 ebase = transportDriver
 
 # the location of the Chombo "lib" directory
-CHOMBO_HOME = ../../transport5/lib
+CHOMBO_HOME = ../../../Chombo-3.2/lib
 
 # names of Chombo libraries needed by this program, in order of search.
 LibNames = EBAMRTimeDependent EBAMRElliptic  EBAMRTools Workshop EBTools AMRTimeDependent AMRElliptic AMRTools BoxTools
